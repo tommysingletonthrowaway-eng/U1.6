@@ -1,2 +1,0 @@
-git branch -d branch
-git push origin --delete branch
