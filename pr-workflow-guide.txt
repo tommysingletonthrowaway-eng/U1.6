@@ -1,0 +1,1 @@
+Add code review checklist and Pull Request description to the branch until it is ready for actually merging. When it is you can then merge it into the main branch, removing the txt files before-so.
